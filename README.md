@@ -88,11 +88,11 @@ function addCarrots() {
 
 ```javascript
 async function letPotKeepBoiling(time) {
-    return /* A promise to let the pot keep boilng for certain time */
+    return /* Promise чтобы горшок кипел некоторое время */
 }
 
 async function boilPot() {
-    return /* A promise to let the pot boil for time */
+    return /* Promise чтобы горшок закипел через время */
 }
 ```
 
