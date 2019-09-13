@@ -117,7 +117,7 @@ function makeSoup() {
     await letPotKeepBoiling(5);
     addOnions();
     await letPotKeepBoiling(10);
-    console.log("Your vegetable soup is ready!");
+    console.log("Ваш овощной суп готов!");
 }
 
 makeSoup();
